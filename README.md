@@ -1,4 +1,4 @@
-## Dad Jokes App
+## Candy Museum Mock Template
 
 <b>Built with</b> 
 
